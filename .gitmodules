@@ -4,3 +4,6 @@
 [submodule "Tiot-server"]
 	path = Tiot-server
 	url = git@github.com:WillianAgostini/Tiot-server.git
+[submodule "Tiot-hardware"]
+	path = Tiot-hardware
+	url = git@github.com:WillianAgostini/Tiot-hardware.git
