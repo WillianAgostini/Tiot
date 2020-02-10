@@ -1,0 +1,6 @@
+[submodule "Tiot-app"]
+	path = Tiot-app
+	url = https://github.com/WillianAgostini/Tiot-app
+[submodule "Tiot-server"]
+	path = Tiot-server
+	url = git@github.com:WillianAgostini/Tiot-server.git
