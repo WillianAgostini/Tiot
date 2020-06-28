@@ -17,11 +17,6 @@ Foi separado em 3 repositórios, sendo eles:
 | Hardware | https://github.com/WillianAgostini/Tiot-hardware |
 | Servidor | https://github.com/WillianAgostini/Tiot-server |
 
-## Descrição dos Projetos
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
 License
 ----
 
